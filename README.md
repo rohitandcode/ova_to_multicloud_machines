@@ -1,5 +1,5 @@
 # ova_to_multicloud_machines
-convert a vmware ova to multicloud machines -> (EC2 in AWS, VMs in Azure, Machines in GCloud)
+convert vmware ova's to multicloud deployable machines -> (EC2 in AWS, VMs in Azure, Machines in GCloud)
 
 Tool that expects a ova file and asks for the target cloud provider.
 ->Converts the OVA to AMI in AWS
